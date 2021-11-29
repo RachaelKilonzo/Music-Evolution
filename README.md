@@ -1,4 +1,5 @@
 # Spotify Music Data Analysis
-![spotify logo](https://user-images.githubusercontent.com/93233240/140979712-1b842cf5-8003-414d-9c36-67fe18c22712.jpg)
+![0_fjF0J_aXhcvIdGBH](https://user-images.githubusercontent.com/93233240/143892209-e4328d9e-5d35-47b0-b3e3-f641c7a46268.gif)
+
 
 ## INTRODUCTION
