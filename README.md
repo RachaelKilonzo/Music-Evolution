@@ -6,6 +6,7 @@
 ## INTRODUCTION
 A heated arguement one evening with a couple of friends who share the same taste of kpop as a music genre inspired this simple short project. The arguement was on the evolution on the genre over the years, differences in generations (I'll soon get to that for any kpop noobs), the faux nostalgia and perhaps condescending attitude that earlier listeners tend to exhihibit for newer generations' sounds.
 
+##
 ## Resources Used
 - Jupyter Notebook Version 6.3.0
 - Python libraries used: matplotlib, pandas, spotipy
@@ -40,8 +41,26 @@ Years: 2019-Present
 Popular Artists: TOMORROW X TOMORROW, TREASURE, ENHYPEN, Stray Kids, ATEEZ, The Boyz, Verivery, ITZY, aespa, (G)I-DLE, STAYC, NiziU, Everglow
 There is the suggestion that says that the fourth generation idols are yet to come because third-generation idols are still at the top. However, since the K-pop idol industry is very saturated, it seems that the current third-generation idols at the top today won't be changing any time soon. And there's an undeniable difference between these groups and third generation ones whether it be soundwise or performancewise.
 
-A small data science project to combine practicing my data visualization and machine learning skills with my favorite band, DAY6. DAY6 is a Korean band under JYP Entertainment that has released over 80 songs across multiple albums and EPs. I extracted data from Spotify's Web API using Spotipy to get musical characteristics of every song in the band's discography (excluding multiple versions of the same song) and made some data visualizations as well as performed K-Means Clustering on the data.
-
+##
+## Data Collection and cleaning
+I extracted data from Spotify's Web API using artists names ot their uri/url to get musical characteristics of about 17000 songs of a list of artists' discographies while exluding the chinese and japanese versions plus instrumentation of title tracks. For each artist, I extracted their albums, EPs and singles and removing repeated albums and songs, duplicate songs and versions of the same song. The characteristics derived were: 
+- Name
+- Album
+- Track ID
+- Acousticness
+- Danceability
+- Duration
+- Energy
+- Instrumentalness
+- Key
+- Liveness
+- Loudness
+- Mode
+- Speechiness
+- Tempo
+- Time Signature
+- Valence
+- uri 
 
 
 
