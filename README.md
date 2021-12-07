@@ -87,3 +87,9 @@ With more visualizations and description to be found in the Jupyter Notebook.
 I always wanted to learn how to plot chord diagrams and managed to do so for the feature analysis of the characteristics. So here is a chord diagram based on the correlation matrix of the 13 features of the songs.
 ![Chord Diagrams](https://user-images.githubusercontent.com/93233240/145101888-f0f62007-be04-4429-b5eb-9b019e49735a.png)
 
+##
+## Needs more work
+- Try to do cluster Analysis and Pca
+- Add Artist names and popularity characteristics and see what you may learn
+- Comparative analysis of the features with western music.
+
