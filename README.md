@@ -68,7 +68,14 @@ I tried to look at the correlation between various variables as well as relation
 
 ![Heat Map](https://user-images.githubusercontent.com/93233240/145100365-775da3e4-1173-4370-8c96-876a3d02b472.png)
 
-
+High positive correlation exists between: 
+- Danceablity & Valence 
+- Danceability & Loudness 
+- Energy & Loudness 
+- Energy & Valence 
+- Loudness & Valence 
+- Energy & Liveness
+Of these 6 pairings, their scatter plots across generation are: 
 
 
 
