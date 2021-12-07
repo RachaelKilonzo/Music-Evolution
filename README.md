@@ -2,6 +2,7 @@
 ![0_fjF0J_aXhcvIdGBH](https://user-images.githubusercontent.com/93233240/143892209-e4328d9e-5d35-47b0-b3e3-f641c7a46268.gif)
 
 
+##
 ## INTRODUCTION
 A heated arguement one evening with a couple of friends who share the same taste of kpop as a music genre inspired this simple short project. The arguement was on the evolution on the genre over the years, differences in generations (I'll soon get to that for any kpop noobs), the faux nostalgia and perhaps condescending attitude that earlier listeners tend to exhihibit for newer generations' sounds.
 
