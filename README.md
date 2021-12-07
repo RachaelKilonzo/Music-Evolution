@@ -62,6 +62,12 @@ I extracted data from Spotify's Web API using artists names ot their uri/url to 
 - Valence
 - uri 
 
+##
+## Exploratory Analysis
+I tried to look at the correlation between various variables as well as relationships between variables to gain some overall insights of what the genre is like. 
+
+![0_fjF0J_aXhcvIdGBH](https://user-images.githubusercontent.com/93233240/143892209-e4328d9e-5d35-47b0-b3e3-f641c7a46268.gif)
+
 
 
 
