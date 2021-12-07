@@ -7,11 +7,11 @@
 A heated arguement one evening with a couple of friends who share the same taste of kpop as a music genre inspired this simple short project. The arguement was on the evolution on the genre over the years, differences in generations (I'll soon get to that for any kpop noobs), the faux nostalgia and perhaps condescending attitude that earlier listeners tend to exhihibit for newer generations' sounds.
 
 ## Resources Used
-*Jupyter Notebook Version 6.3.0
-*Python libraries used: matplotlib, pandas, spotipy
-*Spotify Web API: https://developer.spotify.com/documentation/web-api/
-*Rstudio version 1.4.1717
-*Rstudio libraries used: tidyverse, viridisLite, viridis, patchwork, hrbrthemes, circlize, chorddiag
+-Jupyter Notebook Version 6.3.0
+-Python libraries used: matplotlib, pandas, spotipy
+-Spotify Web API: https://developer.spotify.com/documentation/web-api/
+-Rstudio version 1.4.1717
+-Rstudio libraries used: tidyverse, viridisLite, viridis, patchwork, hrbrthemes, circlize, chorddiag
 
 ##
 ## What is Kpop?
