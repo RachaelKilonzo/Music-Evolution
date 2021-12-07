@@ -76,6 +76,12 @@ High positive correlation exists between:
 - Loudness & Valence 
 - Energy & Liveness
 Of these 6 pairings, their scatter plots across generation are: 
+![scatter plots](https://user-images.githubusercontent.com/93233240/145101043-4ae79bf9-7150-446f-8448-72d8b4a3cda9.png)
 
+With more visualizations and description to be found in the Jupyter Notebook.
+
+## 
+## Chord Diagrams
+I always wanted to learn how to plot chord diagrams and managed to do so for the feature analysis of the characteristics. So here is a chord diagram based on the correlation matrix of the 13 features of the songs.
 
 
