@@ -8,13 +8,9 @@ A heated arguement one evening with a couple of friends who share the same taste
 
 ## Resources Used
 - Jupyter Notebook Version 6.3.0
-
 - Python libraries used: matplotlib, pandas, spotipy
-
 - Spotify Web API: https://developer.spotify.com/documentation/web-api/
-
 - Rstudio version 1.4.1717
-
 - Rstudio libraries used: tidyverse, viridisLite, viridis, patchwork, hrbrthemes, circlize, chorddiag
 
 ##
