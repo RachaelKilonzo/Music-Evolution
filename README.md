@@ -25,6 +25,7 @@ Korean popular music, abbreviated as K-pop or Kpop is mainstream music that orig
 
 ##
 ## Kpop Generations
+
 ### First Generation
 Years: 1996-2004
 The first generation began after disbanded and retired. In 1996, SM Entertainment, inspired by Seo Taiji and Boys, American boy bands, and Japanese idol production decided to create the first K-pop idol group, H.O.T. After, groups such as Sechs Kies, g.o.d, Shinhwa, S.E.S, Fin.K.L, and Baby V.O.X were created among others.
