@@ -66,7 +66,7 @@ I extracted data from Spotify's Web API using artists names ot their uri/url to 
 ## Exploratory Analysis
 I tried to look at the correlation between various variables as well as relationships between variables to gain some overall insights of what the genre is like. 
 
-![0_fjF0J_aXhcvIdGBH](https://user-images.githubusercontent.com/93233240/143892209-e4328d9e-5d35-47b0-b3e3-f641c7a46268.gif)
+![Heat Map](https://user-images.githubusercontent.com/93233240/145100365-775da3e4-1173-4370-8c96-876a3d02b472.png)
 
 
 
